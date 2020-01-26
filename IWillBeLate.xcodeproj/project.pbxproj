@@ -84,6 +84,7 @@
 		B63193E323DDA63B006A90F3 /* MenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuView.swift; sourceTree = "<group>"; };
 		B63193E523DDA724006A90F3 /* SendDelayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SendDelayView.swift; sourceTree = "<group>"; };
 		B63193E923DDCD08006A90F3 /* PostSlack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostSlack.swift; sourceTree = "<group>"; };
+		B63193EB23DDF4A4006A90F3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +101,7 @@
 		B63193A123DD9499006A90F3 = {
 			isa = PBXGroup;
 			children = (
+				B63193EB23DDF4A4006A90F3 /* README.md */,
 				B63193B023DD9499006A90F3 /* IWillBeLate WatchKit App */,
 				B63193BF23DD949A006A90F3 /* IWillBeLate WatchKit Extension */,
 				B63193A923DD9499006A90F3 /* Products */,
